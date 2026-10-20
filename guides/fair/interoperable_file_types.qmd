@@ -5,6 +5,12 @@
 Bioconductor objects provide a shared structure for data and metadata within the project.
 However, preserving their rich metadata in file formats that remain usable over time and across programming languages can be challenging.
 
-The workflow package [savingBiocObjects][saving-bioc-objects] offers guidance on saving and sharing Bioconductor objects, with examples covering common Bioconductor classes and standard file formats.
+The workflow package [*savingBiocObjects*][saving-bioc-objects] offers guidance on saving and sharing Bioconductor objects, with examples covering common Bioconductor classes and standard file formats.
+
+::: {.callout-note}
+A Bioconductor *workflow* package primarily provides vignettes demonstrating an analysis or task, found in the **Documentation** section of its package webpage.
+At the time of writing, [*savingBiocObjects*][saving-bioc-objects] contains a single vignette: [Saving Bioconductor objects](https://bioconductor.org/packages/devel/workflows/vignettes/savingBiocObjects/inst/doc/savingBiocObjects.html).
+:::
+
 
 [saving-bioc-objects]: https://bioconductor.org/packages/savingBiocObjects/
