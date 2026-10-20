@@ -138,6 +138,17 @@
     ]
   },
   {
+    "objectID": "guides/fair/interoperable_file_types.html#saving-bioconductor-objects-for-sharing",
+    "href": "guides/fair/interoperable_file_types.html#saving-bioconductor-objects-for-sharing",
+    "title": "Interoperable file types",
+    "section": "",
+    "text": "Note\n\n\n\nA Bioconductor workflow package primarily provides vignettes demonstrating an analysis or task, found in the Documentation section of its package webpage. At the time of writing, savingBiocObjects contains a single vignette: Saving Bioconductor objects.",
+    "crumbs": [
+      "Guide for FAIR Practices",
+      "Interoperable file types"
+    ]
+  },
+  {
     "objectID": "guides/fair/bioc_in_galaxy.html",
     "href": "guides/fair/bioc_in_galaxy.html",
     "title": "Bioconductor in Galaxy",
