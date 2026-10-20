@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -42,10 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-f65414af972ecf7b3540f43a4f603fe7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-bdc8cfcf05c1f7460a952aaa0f0e436c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -252,8 +255,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#saving-bioconductor-objects-for-sharing" id="toc-saving-bioconductor-objects-for-sharing" class="nav-link active" data-scroll-target="#saving-bioconductor-objects-for-sharing">Saving Bioconductor objects for sharing</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/edit/main/guides/fair/interoperable_file_types.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/issues/new" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/blob/main/guides/fair/interoperable_file_types.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -277,9 +286,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Preferred file types for disk-based storage of R objects and interoperability with other programming languages and software ecosystems will be documented here.</p>
+<section id="saving-bioconductor-objects-for-sharing" class="level2">
+<h2 class="anchored" data-anchor-id="saving-bioconductor-objects-for-sharing">Saving Bioconductor objects for sharing</h2>
+<p>Bioconductor objects provide a shared structure for data and metadata within the project. However, preserving their rich metadata in file formats that remain usable over time and across programming languages can be challenging.</p>
+<p>The workflow package <a href="https://bioconductor.org/packages/savingBiocObjects/">savingBiocObjects</a> offers guidance on saving and sharing Bioconductor objects, with examples covering common Bioconductor classes and standard file formats.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -699,4 +712,4 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/edit/main/guides/fair/interoperable_file_types.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/issues/new" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/blob/main/guides/fair/interoperable_file_types.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/edit/main/guides/fair/interoperable_file_types.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/issues/new" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/kevinrue/bioconductor-community-handbook/blob/main/guides/fair/interoperable_file_types.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div></div></footer></body></html>

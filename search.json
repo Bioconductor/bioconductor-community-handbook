@@ -131,7 +131,7 @@
     "href": "guides/fair/interoperable_file_types.html",
     "title": "Interoperable file types",
     "section": "",
-    "text": "Preferred file types for disk-based storage of R objects and interoperability with other programming languages and software ecosystems will be documented here.",
+    "text": "Saving Bioconductor objects for sharing\nBioconductor objects provide a shared structure for data and metadata within the project. However, preserving their rich metadata in file formats that remain usable over time and across programming languages can be challenging.\nThe workflow package savingBiocObjects offers guidance on saving and sharing Bioconductor objects, with examples covering common Bioconductor classes and standard file formats.",
     "crumbs": [
       "Guide for FAIR Practices",
       "Interoperable file types"
