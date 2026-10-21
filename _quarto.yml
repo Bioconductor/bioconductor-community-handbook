@@ -4,7 +4,7 @@ project:
 book:
   title: "Bioconductor Community Handbook"
   favicon: images/favicon.ico
-  repo-url: https://github.com/kevinrue/bioconductor-community-handbook
+  repo-url: https://github.com/Bioconductor/bioconductor-community-handbook
   repo-branch: main
   repo-actions: [edit, issue, source]
   repo-link-target: _blank
