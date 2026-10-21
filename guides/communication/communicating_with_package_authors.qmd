@@ -1,0 +1,160 @@
+# Communicating with package authors {.unnumbered}
+
+Bioconductor packages are developed and maintained by members of the scientific community.
+Much of this work is carried out **on a voluntary basis**, often alongside research, teaching, and other professional responsibilities.
+
+Although package maintainers are expected to provide ongoing support, their time and availability may be limited.
+When seeking help, it is important to communicate respectfully, provide sufficient information, and use the appropriate communication channels.
+
+## Choosing the appropriate communication channel
+
+The following channels are listed in their recommended order of preference, depending on the nature of your request.
+
+### 1. Bioconductor Support Site
+
+The [Bioconductor Support Site][bioc-support-site] is the **preferred channel for most questions** about using Bioconductor packages.
+
+Use it when:
+
+- Asking how to use a package or a particular function.
+- Seeking clarification about package documentation or behaviour.
+- Encountering errors or unexpected results.
+- Requesting help with an analysis involving Bioconductor packages.
+
+**What to do:**
+
+1. Search the [Support Site][bioc-support-site] to check whether a similar question has already been answered.
+2. Create a new post with a descriptive title explaining your question or problem.
+3. **Tag your post with the names of the relevant packages.** This is particularly important because package tags automatically trigger email notifications to the corresponding maintainers. Package names must be spelled correctly, although capitalisation does not matter.
+4. Provide a reproducible example whenever possible, including relevant code, error messages, and the output of `sessionInfo()`.
+5. Continue the conversation publicly by adding comments to the original post rather than switching to private communication.
+
+Using the [Support Site][bioc-support-site] allows other community members to contribute answers and creates a searchable record that can help users facing similar problems.
+
+For more information, consult the [Bioconductor Posting Guide](https://bioconductor.org/help/support/posting-guide/).
+
+### 2. Package issue tracker
+
+Many Bioconductor packages have a dedicated issue tracker, for instance hosted on the corresponding GitHub repository.
+This can be the most appropriate channel for reporting software defects or proposing improvements.
+
+Use it when:
+
+- Reporting a reproducible software bug.
+- Requesting a new feature or enhancement.
+- Identifying a problem with the package documentation.
+- Proposing a specific change to the package implementation.
+
+**What to do:**
+
+1. Visit the package's landing page on the Bioconductor website.
+2. Look for a `Bug Reports` link, or inspect the `BugReports` field in the package's `DESCRIPTION` file.
+3. Check existing issues to avoid reporting something that is already known.
+4. Open a new issue describing the problem or proposed improvement, following any contribution guidelines provided by the maintainers.
+5. For bug reports, include a minimal reproducible example, relevant error messages, and information about your software environment.
+
+**Do not assume that every GitHub repository is actively monitored.** Some contributed Bioconductor packages have no associated GitHub repository, or their repository may not be up to date.
+
+Issue trackers should generally not be used for routine questions about how to use a package. Those questions are better suited to the [Bioconductor Support Site][bioc-support-site].
+
+### 3. Bioconductor developer mailing list
+
+The [Bioconductor developer mailing list (bioc-devel)](https://stat.ethz.ch/mailman/listinfo/bioc-devel) is intended for discussions about package development and the broader Bioconductor software ecosystem.
+
+Use it when:
+
+- Asking questions about developing or maintaining a Bioconductor package.
+- Discussing package development practices or Bioconductor infrastructure.
+- Seeking advice about changes that could affect multiple packages.
+- Discussing proposed improvements to the Bioconductor ecosystem.
+
+**What to do:**
+
+1. Check whether your question concerns package development rather than package usage.
+2. Search previous discussions for relevant information.
+3. Send a clearly formulated message to `bioc-devel@r-project.org`, including enough technical context for other developers to respond.
+4. Keep the discussion on the mailing list so that other developers can benefit.
+
+Messages from people who are not subscribed to the mailing list may require moderator approval.
+
+The developer mailing list is not generally intended for routine package usage questions.
+
+### 4. Bioconductor Zulip
+
+The [Bioconductor Zulip](https://chat.bioconductor.org) brings together users and developers in specialised channels for questions and collaboration, as described on the [Bioconductor Support and Community Forum page](https://bioconductor.org/help/support/).
+It can be a useful way to reach package authors who participate in a channel relevant to your topic.
+
+Use it when:
+
+- A suitable public channel exists for the package, research area, or development topic you want to discuss.
+- Seeking informal discussion or exploring collaboration with package authors and other community members.
+- Continuing a relevant discussion already taking place on Zulip.
+
+**What to do:**
+
+1. Browse the available channels and read their descriptions to check whether your topic fits.
+2. Search previous conversations before starting a new discussion.
+3. Reply in an existing topic if it matches your question, or start a new topic with a descriptive title in the appropriate channel.
+4. Include the package name, relevant context, and links to any related Support Site posts or issues.
+5. Keep the conversation in the public channel so that other community members can contribute and benefit.
+
+If no suitable channel exists, use one of the other communication channels described above.
+The [Bioconductor Support Site][bioc-support-site] remains the preferred place for routine package usage questions.
+Do not assume that every package author uses Zulip or monitors a particular channel, or expect an immediate response.
+
+::: {.callout-important}
+**Avoid unsolicited direct messages (DMs) for technical support.** Like direct emails, DMs limit who can help and prevent the wider community from benefiting from the answer.
+The same considerations for private contact in the direct email section below apply to Zulip DMs: use them only when invited or when the matter genuinely requires private communication.
+:::
+
+### 5. Direct email to package maintainers
+
+Direct email should only be a **last resort** to reach the maintainer of a Bioconductor package.
+
+The email address of the package maintainer can be found in the `Maintainer:` section of the package's landing page on the Bioconductor website.
+
+The [Bioconductor Posting Guide][bioc-posting-guide] explicitly recommends keeping conversations on the [Support Site][bioc-support-site] and avoiding direct email unless the other party indicates otherwise.
+
+Direct email may nevertheless be appropriate when:
+
+- The maintainer has explicitly invited you to contact them by email.
+- The matter involves confidential or sensitive information that cannot reasonably be discussed publicly.
+- You wish to discuss a potential collaboration or another matter unrelated to routine technical support.
+- A specific situation requires private communication and no suitable public channel is available.
+
+**What to do:**
+
+1. Check whether the package documentation provides a preferred contact method.
+2. If direct contact is appropriate, find the maintainer's email address in the package's `DESCRIPTION` file or Bioconductor landing page.
+3. Write a concise message explaining the purpose of your contact.
+4. Include relevant context and, where applicable, links to previous public discussions.
+5. Respect the maintainer's availability and avoid repeated follow-up messages over short periods.
+
+::: {.callout-note}
+The presence of an email address in a package's metadata does not imply that direct email is the preferred support channel. This address also serves an important administrative purpose, allowing the Bioconductor project to contact maintainers about their packages.
+:::
+
+## General recommendations
+
+Regardless of the communication channel, following a few simple practices makes it easier for maintainers and other community members to help.
+
+- **Consult existing resources first.** Read the package documentation, vignettes, and relevant discussions before posting a new question.
+- **Be specific.** Explain what you are trying to achieve, what you have attempted, and what happened.
+- **Make problems reproducible.** Provide a minimal example, relevant outputs, and your R session information whenever possible.
+- **Use public channels whenever appropriate.** Public discussions make solutions discoverable and reduce repeated requests to maintainers.
+- **Be respectful and patient.** Package maintenance and community support frequently rely on voluntary contributions. Responses may take time, and immediate assistance cannot be guaranteed.
+- **Follow the [Bioconductor Code of Conduct](https://bioconductor.org/about/code-of-conduct/).** Keep interactions professional, constructive, and considerate of others.
+
+Remember that **package maintainers are responsible for maintaining their software, but they are not necessarily available to provide individual, on-demand support**. Choosing the appropriate channel and asking well-structured questions helps sustain a welcoming and effective support community.
+
+## Further reading
+
+This guidance is based on the following official Bioconductor resources:
+
+- [Bioconductor Posting Guide][bioc-posting-guide] — Recommendations for asking questions, communicating with maintainers, and participating in support discussions.
+- [Bioconductor Support and Community Forum](https://bioconductor.org/help/support/) — Overview of available communication channels and their intended purposes.
+- [Bioconductor Author / Maintainer Expectations](https://contributions.bioconductor.org/bioconductor-package-submissions.html#author) — Responsibilities of package maintainers, including responding to user questions and monitoring support channels.
+
+
+[bioc-posting-guide]: https://bioconductor.org/help/support/posting-guide/
+[bioc-support-site]: https://support.bioconductor.org/

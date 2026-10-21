@@ -26,3 +26,8 @@ You can read more about the move from Slack to Zulip - which took place on Monda
 :::
 
 The Bioconductor Zulip chat is intended for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working group conversations, event planning, and questions that don't naturally fit the support site or bioc-devel.
+
+## Additional resources
+
+- [Bioconductor - Support and Community Forum](https://bioconductor.org/help/support/)
+- [Bioconductor - Posting Guide](https://bioconductor.org/help/support/posting-guide/)
