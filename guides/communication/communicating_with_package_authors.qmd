@@ -79,7 +79,35 @@ Messages from people who are not subscribed to the mailing list may require mode
 
 The developer mailing list is not generally intended for routine package usage questions.
 
-### 4. Direct email to package maintainers
+### 4. Bioconductor Zulip
+
+The [Bioconductor Zulip](https://chat.bioconductor.org) brings together users and developers in specialised channels for questions and collaboration, as described on the [Bioconductor Support and Community Forum page](https://bioconductor.org/help/support/).
+It can be a useful way to reach package authors who participate in a channel relevant to your topic.
+
+Use it when:
+
+- A suitable public channel exists for the package, research area, or development topic you want to discuss.
+- Seeking informal discussion or exploring collaboration with package authors and other community members.
+- Continuing a relevant discussion already taking place on Zulip.
+
+**What to do:**
+
+1. Browse the available channels and read their descriptions to check whether your topic fits.
+2. Search previous conversations before starting a new discussion.
+3. Reply in an existing topic if it matches your question, or start a new topic with a descriptive title in the appropriate channel.
+4. Include the package name, relevant context, and links to any related Support Site posts or issues.
+5. Keep the conversation in the public channel so that other community members can contribute and benefit.
+
+If no suitable channel exists, use one of the other communication channels described above.
+The [Bioconductor Support Site][bioc-support-site] remains the preferred place for routine package usage questions.
+Do not assume that every package author uses Zulip or monitors a particular channel, or expect an immediate response.
+
+::: {.callout-important}
+**Avoid unsolicited direct messages (DMs) for technical support.** Like direct emails, DMs limit who can help and prevent the wider community from benefiting from the answer.
+The same considerations for private contact in the direct email section below apply to Zulip DMs: use them only when invited or when the matter genuinely requires private communication.
+:::
+
+### 5. Direct email to package maintainers
 
 Direct email should only be a **last resort** to reach the maintainer of a Bioconductor package.
 
