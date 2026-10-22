@@ -1,25 +1,24 @@
-name: Quarto render
+# adapted from https://github.com/quarto-dev/quarto-actions/blob/main/examples/quarto-publish-example.yml
 
 on:
   pull_request:
-    branches: [main]
+    branches:
+      - main
 
-permissions:
-  contents: read
+name: Render and Publish
 
 jobs:
-  render:
-    name: Quarto render
+  build-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-
+        uses: actions/checkout@v6
+        
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Render handbook
-        run: quarto render
+      - name: Publish to GitHub Pages (and render) 
+        uses: quarto-dev/quarto-actions/render@v2
