@@ -2,8 +2,10 @@ project:
   type: book
 
 book:
-  title: "Bioconductor Community Handbook"
+  title: "Bioconductor All‑Community Handbook"
   favicon: images/favicon.ico
+  cover-image: images/bach_logo.png
+  cover-image-alt: 'A closed music book titled BACH rests on a music stand. Its cover features the Bioconductor logo: a blue musical note whose stem extends into a horizontal DNA double helix formed by blue and green dots.'
   repo-url: https://github.com/Bioconductor/bioconductor-community-handbook
   repo-branch: main
   repo-actions: [edit, issue, source]
