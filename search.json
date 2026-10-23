@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Bioconductor Community Handbook",
+    "title": "Bioconductor All‑Community Handbook",
     "section": "",
     "text": "Preface",
     "crumbs": [
@@ -12,9 +12,9 @@
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "Bioconductor Community Handbook",
+    "title": "Bioconductor All‑Community Handbook",
     "section": "Welcome",
-    "text": "Welcome\nWelcome to the Bioconductor Community Handbook.\nThis handbook is a collaborative effort to capture and share knowledge about the Bioconductor community, its practices, and its resources. It is intended for anyone interested in contributing to or learning from the Bioconductor community, whether you are a seasoned contributor or a newcomer.\nThis book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026. It began as an effort to capture FAIR (Findable, Accessible, Interoperable, Reusable) practices not covered by existing Bioconductor materials, but discussions broadened its scope into a handbook bringing together key aspects of community practice in one place.\nThe structure of this handbook is inspired from The Turing Way, referring to it for more general guidance on open source software development, data science, and reproducible research. It is intended to unify this combined knowledge under one common roof while signposting to more specialised guidance maintained by Bioconductor and other communities.",
+    "text": "Welcome\nWelcome to the Bioconductor All‑Community Handbook (BACH).\nThis handbook is a collaborative effort to capture and share knowledge about the Bioconductor community, its practices, and its resources. It is intended for anyone interested in contributing to or learning from the Bioconductor community, whether you are a seasoned contributor or a newcomer.\nThis book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026. It began as an effort to capture FAIR (Findable, Accessible, Interoperable, Reusable) practices not covered by existing Bioconductor materials, but discussions broadened its scope into a handbook bringing together key aspects of community practice in one place.\nThe structure of this handbook is inspired from The Turing Way, referring to it for more general guidance on open source software development, data science, and reproducible research. It is intended to unify this combined knowledge under one common roof while signposting to more specialised guidance maintained by Bioconductor and other communities.",
     "crumbs": [
       "Preface"
     ]
