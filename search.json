@@ -285,7 +285,7 @@
     "href": "code_of_conduct.html",
     "title": "Code of Conduct",
     "section": "",
-    "text": "The Bioconductor Code of Conduct was initially adapted from the BioC 2020 Code of Conduct, which itself built on earlier conference-specific documents.\nChanges to the Code of Conduct are versioned and tracked over time.\nThe community also maintains version-controlled translations of the Code of Conduct in several languages. Each translation corresponds to a specific version of the reference U.S. English document.\nThe multilingual versions of the Code of Conduct are available through the Bioconductor multilingual Code of Conduct site.",
+    "text": "The Bioconductor Code of Conduct was initially adapted from the BioC 2020 Code of Conduct, which itself built on earlier conference-specific documents.\nChanges to the Code of Conduct are versioned and tracked over time. Each translation is version-controlled and corresponds to a specific version of the reference U.S. English document.\n\n\n\n\n\n\nNoteCode of Conduct translations\n\n\n\nExisting translations of the Code of Conduct are currently being transferred into this repository. During this transition, readers are encouraged to consult the Bioconductor multilingual Code of Conduct site for potentially more up-to-date translations.",
     "crumbs": [
       "Code of Conduct"
     ]
