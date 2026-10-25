@@ -5,7 +5,7 @@ on:
     branches:
       - main
 
-name: Render and Publish
+name: Test Render
 
 jobs:
   build-deploy:
@@ -20,5 +20,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish to GitHub Pages (and render) 
+      - name: Render
         uses: quarto-dev/quarto-actions/render@v2
