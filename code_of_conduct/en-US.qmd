@@ -4,6 +4,7 @@
 ### Reference version
 
 This U.S. English document is the reference version of the Bioconductor Code of Conduct. Translations into other languages are maintained separately and correspond to specific versions of this document.
+
 All language versions are intended to communicate the same principles, expectations, and protections to members of the Bioconductor community.
 :::
 
