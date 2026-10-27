@@ -379,6 +379,46 @@
     ]
   },
   {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "Proposing a change\nWelcome, and thank you for your interest in contributing to the Bioconductor All-Community Handbook!\nEveryone is welcome to help shape the Bioconductor All-Community Handbook. Whether you are new to Bioconductor or have been involved for years, your experience and perspective can help make this resource more useful and accessible. Contributions of all sizes are appreciated: fixing a typo, clarifying an explanation, sharing a resource, or suggesting a new topic. You do not need to be an expert in GitHub or write a finished chapter to get involved. Our ambition is to author this book as a community, drawing on our shared knowledge and diverse experiences.\nThe two main ways to contribute are to discuss ideas through GitHub issues and propose changes through pull requests.\nPlease follow our Code of Conduct in all interactions.\nThe handbook is maintained in a GitHub repository. Changes are proposed through pull requests, which let others read and discuss your edits before they become part of the handbook.",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing.html#proposing-a-change",
+    "href": "contributing.html#proposing-a-change",
+    "title": "Contributing",
+    "section": "",
+    "text": "Fork the repository. A fork is your own copy of the repository on GitHub, where you can make changes freely.\nMake your edits on a new branch. A branch keeps a set of related changes together. Edit the relevant files in your fork, either on GitHub or on your computer, and commit your changes with a short description.\nOpen a pull request. Propose merging your branch into the original repository’s main branch. Give the pull request a descriptive title and use the description field to briefly explain what you changed and why. If you would like early feedback, open a draft pull request and mention where you would like help.",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing.html#discussing-contributions",
+    "href": "contributing.html#discussing-contributions",
+    "title": "Contributing",
+    "section": "Discussing contributions",
+    "text": "Discussing contributions\nYou are welcome to open an issue directly on the book’s repository to discuss content you plan to add, suggest a change, flag a problem, or ask for help. For larger additions, sharing your ideas early can help you explore the scope and find others interested in contributing.\nYou can also reach out through the channels listed in Communicating with the community to gather ideas, ask questions, or find collaborators. You do not need a finished proposal to start a conversation.",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing.html#review-and-inclusion",
+    "href": "contributing.html#review-and-inclusion",
+    "title": "Contributing",
+    "section": "Review and inclusion",
+    "text": "Review and inclusion\nReview is intended to be light-touch and collaborative. Contributions are reviewed for clarity, relevance, and consistency with the rest of the handbook. Clarifying questions may be asked and small edits may be requested. Feedback is a conversation: you are welcome to ask for clarification or help, and further commits to your branch will update the pull request automatically.\nOnce the contribution is ready and approved, a maintainer can merge it into the handbook.\n\n\n\n\n\n\nTipAdditional resources\n\n\n\nContributing to The Turing Way links to useful resources on collaborating through GitHub and writing in Markdown, which can also help you contribute to this handbook.",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
     "objectID": "appendices/contributors.html",
     "href": "appendices/contributors.html",
     "title": "Contributors",
