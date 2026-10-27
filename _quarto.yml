@@ -13,7 +13,7 @@ book:
   author:
     - name: "The Bioconductor Community"
       url: https://bioconductor.org
-  date: "2026-09-24"
+  date: today
   sidebar:
     collapse-level: 1
   chapters:
