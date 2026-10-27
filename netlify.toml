@@ -1,0 +1,3 @@
+[build]
+  command = "quarto render --to html"
+  publish = "_book"
