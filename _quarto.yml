@@ -38,6 +38,7 @@ book:
         - code_of_conduct/en-US.qmd
         - code_of_conduct/fr-FR.qmd
     - references.qmd
+    - contributing.qmd
   appendices:
     - appendices/contributors.qmd
     - appendices/definitions.qmd
