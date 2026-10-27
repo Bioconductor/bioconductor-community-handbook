@@ -36,6 +36,7 @@ book:
     - part: code_of_conduct.md
       chapters:
         - code_of_conduct/en-US.qmd
+        - code_of_conduct/fr-FR.qmd
     - references.qmd
     - contributing.qmd
   appendices:
