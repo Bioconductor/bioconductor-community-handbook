@@ -280,7 +280,13 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#the-bioc-devel-mailing-list" id="toc-the-bioc-devel-mailing-list" class="nav-link active" data-scroll-target="#the-bioc-devel-mailing-list">The bioc-devel mailing list</a></li>
   <li><a href="#the-bioconductor-support-site" id="toc-the-bioconductor-support-site" class="nav-link" data-scroll-target="#the-bioconductor-support-site">The Bioconductor support site</a></li>
-  <li><a href="#the-bioconductor-zulip-chat" id="toc-the-bioconductor-zulip-chat" class="nav-link" data-scroll-target="#the-bioconductor-zulip-chat">The Bioconductor Zulip chat</a></li>
+  <li><a href="#the-bioconductor-zulip-chat" id="toc-the-bioconductor-zulip-chat" class="nav-link" data-scroll-target="#the-bioconductor-zulip-chat">The Bioconductor Zulip chat</a>
+  <ul class="collapse">
+  <li><a href="#understanding-channels-and-topics" id="toc-understanding-channels-and-topics" class="nav-link" data-scroll-target="#understanding-channels-and-topics">Understanding channels and topics</a></li>
+  <li><a href="#starting-or-joining-a-conversation" id="toc-starting-or-joining-a-conversation" class="nav-link" data-scroll-target="#starting-or-joining-a-conversation">Starting or joining a conversation</a></li>
+  <li><a href="#finding-channels-and-following-discussions" id="toc-finding-channels-and-following-discussions" class="nav-link" data-scroll-target="#finding-channels-and-following-discussions">Finding channels and following discussions</a></li>
+  <li><a href="#a-short-tour-and-further-help" id="toc-a-short-tour-and-further-help" class="nav-link" data-scroll-target="#a-short-tour-and-further-help">A short tour and further help</a></li>
+  </ul></li>
   <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional resources</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/Bioconductor/bioconductor-community-handbook/edit/main/guides/communication/communicating_with_the_community.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Bioconductor/bioconductor-community-handbook/issues/new" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/Bioconductor/bioconductor-community-handbook/blob/main/guides/communication/communicating_with_the_community.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
@@ -307,41 +313,90 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This section will introduce communication practices, resources, and pathways for coordinating work and building effective relationships with other community members.</p>
+<p>This section introduces communication practices, resources, and pathways for coordinating work and building relationships with other community members.</p>
 <section id="the-bioc-devel-mailing-list" class="level2">
 <h2 class="anchored" data-anchor-id="the-bioc-devel-mailing-list">The bioc-devel mailing list</h2>
 <p>The bioc-devel mailing list was created in <a href="https://github.com/r-mailing-lists/data">March 2004</a> for package development and Bioconductor infrastructure questions, particularly where input from developers or the core team may be needed.</p>
-<p>New users can subscribe to the mailing list at <a href="https://stat.ethz.ch/mailman/listinfo/bioc-devel" class="uri">https://stat.ethz.ch/mailman/listinfo/bioc-devel</a></p>
+<p>New users can subscribe to the mailing list at <a href="https://stat.ethz.ch/mailman/listinfo/bioc-devel" class="uri">https://stat.ethz.ch/mailman/listinfo/bioc-devel</a>.</p>
 </section>
 <section id="the-bioconductor-support-site" class="level2">
 <h2 class="anchored" data-anchor-id="the-bioconductor-support-site">The Bioconductor support site</h2>
-<p>The Bioconductor support site was inaugurated in <a href="https://support.bioconductor.org/p/61060/">August 2014</a> as the best place for questions about using Bioconductor packages because the answers are archived, searchable, and can help future users with the same issue.</p>
+<p>The Bioconductor support site was inaugurated in <a href="https://support.bioconductor.org/p/61060/">August 2014</a>. It is the best place for questions about using Bioconductor packages because the answers are archived, searchable, and can help future users with the same issue.</p>
 <p>The support site is available at <a href="https://support.bioconductor.org" class="uri">https://support.bioconductor.org</a>, where new users can freely create an account to post questions and answers.</p>
 </section>
 <section id="the-bioconductor-zulip-chat" class="level2">
 <h2 class="anchored" data-anchor-id="the-bioconductor-zulip-chat">The Bioconductor Zulip chat</h2>
-<p>Bioconductor uses the freely accessible, open source team chat <a href="https://zulip.com/">Zulip</a> app.</p>
-<p>New users can sign up for at <a href="https://chat.bioconductor.org/" class="uri">https://chat.bioconductor.org/</a>.</p>
-<div class="callout callout-style-default callout-note callout-titled">
+<p>Bioconductor uses <a href="https://zulip.com/">Zulip</a>, a freely accessible, open-source chat platform.</p>
+<p>New users can sign up at <a href="https://chat.bioconductor.org/" class="uri">https://chat.bioconductor.org/</a>.</p>
+<p>The Bioconductor Zulip chat is intended for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working group conversations, event planning, and questions that don’t naturally fit the support site or bioc-devel.</p>
+<section id="understanding-channels-and-topics" class="level3">
+<h3 class="anchored" data-anchor-id="understanding-channels-and-topics">Understanding channels and topics</h3>
+<p>Zulip organises messages into <strong>channels</strong> and <strong>topics</strong>:</p>
+<ul>
+<li>A <strong>channel</strong> is a broad area of interest, such as <code>education-and-training</code> or <code>events</code>.</li>
+<li>A <strong>topic</strong> is the subject of a conversation within that channel. Think of it like an <strong>email subject line</strong>.</li>
+</ul>
+<p>For example, a conversation in <code>education-and-training</code> might have the topic “Finding introductory RNA-seq materials”.</p>
+</section>
+<section id="starting-or-joining-a-conversation" class="level3">
+<h3 class="anchored" data-anchor-id="starting-or-joining-a-conversation">Starting or joining a conversation</h3>
+<p><strong>To ask a new question or start a conversation</strong>, choose a relevant channel and give your topic a short, descriptive title, just as you would write a subject line for a new email.</p>
+<p><strong>To reply to a conversation you are reading</strong>, write in that conversation’s existing topic, just as you would reply to an email thread.</p>
+<p>You don’t need to search through old topics or find a perfect match before asking a new question. If someone knows of a related discussion, they can point you to it.</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Not sure where to post?">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Note
+<span class="screen-reader-only">Tip</span>Not sure where to post?
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>The community previously used <a href="https://slack.com">Slack</a> for chat, but the transition to Zulip was made to ensure long-term access to discussions and better reflect the community’s open-source values. You can read more about the move from Slack to Zulip - which took place on Monday 2 June 2025 - in the Bioconductor blog post <a href="https://blog.bioconductor.org/posts/2025-05-29-slack-to-zulip/">Bioconductor is Moving from Slack to Zulip for Community Chat</a>.</p>
+<p>Try <code>general</code>, or <code>no-stupid-questions</code> for questions about Bioconductor, R, and the community.</p>
+<p>You don’t need to find the perfect channel or topic title before posting. Other community members can help, and messages can be moved if needed.</p>
+<p>For help troubleshooting a specific Bioconductor package, please use the <a href="https://support.bioconductor.org/">support site</a>.</p>
 </div>
 </div>
-<p>The Bioconductor Zulip chat is intended for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working group conversations, event planning, and questions that don’t naturally fit the support site or bioc-devel.</p>
+</section>
+<section id="finding-channels-and-following-discussions" class="level3">
+<h3 class="anchored" data-anchor-id="finding-channels-and-following-discussions">Finding channels and following discussions</h3>
+<p>New members are subscribed to four channels to get started:</p>
+<ul>
+<li><code>general</code>: Community discussions and updates.</li>
+<li><code>random</code>: Informal chat.</li>
+<li><code>introductions</code>: Introduce yourself and meet other members.</li>
+<li><code>events</code>: Workshops, talks, and conferences.</li>
+</ul>
+<p>There are also channels for scientific interests, software development, training, regional communities, and specific projects.</p>
+<p>Click <strong>Browse more channels</strong> at the bottom of your channel list to explore and subscribe. You’re welcome to join any public channel that interests you.</p>
+<p><strong>You don’t need to follow everything.</strong> Start with a few channels, read along if you prefer, and join conversations when you have a question or something to share.</p>
+</section>
+<section id="a-short-tour-and-further-help" class="level3">
+<h3 class="anchored" data-anchor-id="a-short-tour-and-further-help">A short tour and further help</h3>
+<p>Watch the <a href="https://static.zulipchat.com/static/navigation-tour-video/fffe1bb0baefab1a448fd9082738eaf271feb7ec247901242cd7bccb2280914b.mp4">two-minute Zulip tour</a> for a demonstration of channels, topics, navigation, and starting a conversation.</p>
+<p>For more detailed instructions, see Zulip’s <a href="https://zulip.com/help/getting-started-with-zulip">getting-started guide</a>.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Our move from Slack">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Our move from Slack
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The community previously used <a href="https://slack.com">Slack</a> for chat. We moved to Zulip on 2 June 2025 to ensure long-term access to discussions and better reflect the community’s open-source values.</p>
+<p>Read more in <a href="https://blog.bioconductor.org/posts/2025-05-29-slack-to-zulip/">Bioconductor is Moving from Slack to Zulip for Community Chat</a>.</p>
+</div>
+</div>
+</section>
 </section>
 <section id="additional-resources" class="level2">
 <h2 class="anchored" data-anchor-id="additional-resources">Additional resources</h2>
 <ul>
-<li><a href="https://bioconductor.org/help/support/">Bioconductor - Support and Community Forum</a></li>
-<li><a href="https://bioconductor.org/help/support/posting-guide/">Bioconductor - Posting Guide</a></li>
+<li><a href="https://bioconductor.org/help/support/">Bioconductor Support and Community Forum</a></li>
+<li><a href="https://bioconductor.org/help/support/posting-guide/">Bioconductor Posting Guide</a></li>
 </ul>
 
 
