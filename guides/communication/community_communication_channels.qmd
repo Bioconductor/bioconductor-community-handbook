@@ -1,0 +1,26 @@
+# Community communication channels {.unnumbered}
+
+Bioconductor community members use several platforms for questions, discussion, and coordination. Choose the channel that best fits your needs.
+
+## The bioc-devel mailing list
+
+Created in [March 2004](https://github.com/r-mailing-lists/data), the bioc-devel mailing list is for package development and Bioconductor infrastructure questions, particularly when input from developers or the core team may be needed.
+
+New users can subscribe to the mailing list at <https://stat.ethz.ch/mailman/listinfo/bioc-devel>.
+
+## The Bioconductor support site
+
+Launched in [August 2014](https://support.bioconductor.org/p/61060/), the Bioconductor support site is the best place for questions about using Bioconductor packages. Its archived, searchable answers can help future users with the same issue.
+
+The support site is available at <https://support.bioconductor.org>, where new users can freely create an account to post questions and answers.
+
+## The Bioconductor Zulip chat
+
+Bioconductor uses [Zulip](https://zulip.com/), a freely accessible, open-source chat platform, for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working groups, and event planning.
+
+New users can sign up at <https://chat.bioconductor.org/>. See [Using the Bioconductor Zulip chat](using_the_zulip_chat.qmd) for an introduction to channels, topics, and getting started.
+
+## Additional resources
+
+- [Bioconductor Support and Community Forum](https://bioconductor.org/help/support/)
+- [Bioconductor Posting Guide](https://bioconductor.org/help/support/posting-guide/)

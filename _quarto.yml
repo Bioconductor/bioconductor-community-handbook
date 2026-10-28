@@ -25,7 +25,8 @@ book:
         - guides/software/package_peer_review.qmd
     - part: guide_communication.qmd
       chapters:
-        - guides/communication/communicating_with_the_community.qmd
+        - guides/communication/community_communication_channels.qmd
+        - guides/communication/using_the_zulip_chat.qmd
         - guides/communication/communicating_with_package_authors.qmd
         - guides/communication/communicating_with_other_communities.qmd
     - part: guide_fair.qmd
