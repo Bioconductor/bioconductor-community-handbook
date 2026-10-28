@@ -1,37 +1,25 @@
-# Communicating with the community {.unnumbered}
+# Using the Bioconductor Zulip chat {.unnumbered}
 
-This section introduces communication practices, resources, and pathways for coordinating work and building relationships with other community members.
+Bioconductor uses [Zulip](https://zulip.com/), a freely accessible, open-source chat platform, for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working groups, and event planning.
 
-## The bioc-devel mailing list
+New users can sign up at <https://chat.bioconductor.org/>. See [Using the Bioconductor Zulip chat](using_the_zulip_chat.qmd) for an introduction to channels, topics, and getting started.
 
-The bioc-devel mailing list was created in [March 2004](https://github.com/r-mailing-lists/data) for package development and Bioconductor infrastructure questions, particularly where input from developers or the core team may be needed.
+::: {.callout-tip}
+## Are you in the right place?
 
-New users can subscribe to the mailing list at <https://stat.ethz.ch/mailman/listinfo/bioc-devel>.
+For an overview of all community communication channels, see [Community communication channels](communicating_with_the_community.qmd).
+:::
 
-## The Bioconductor support site
-
-The Bioconductor support site was inaugurated in [August 2014](https://support.bioconductor.org/p/61060/). It is the best place for questions about using Bioconductor packages because the answers are archived, searchable, and can help future users with the same issue.
-
-The support site is available at <https://support.bioconductor.org>, where new users can freely create an account to post questions and answers.
-
-## The Bioconductor Zulip chat
-
-Bioconductor uses [Zulip](https://zulip.com/), a freely accessible, open-source chat platform.
-
-New users can sign up at <https://chat.bioconductor.org/>.
-
-The Bioconductor Zulip chat is intended for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working group conversations, event planning, and questions that don't naturally fit the support site or bioc-devel.
-
-### Understanding channels and topics
+## Understanding channels and topics
 
 Zulip organises messages into **channels** and **topics**:
 
 - A **channel** is a broad area of interest, such as `education-and-training` or `events`.
 - A **topic** is the subject of a conversation within that channel. Think of it like an **email subject line**.
 
-For example, a conversation in `education-and-training` might have the topic “Finding introductory RNA-seq materials”.
+For example, a conversation in `education-and-training` might have the topic "Finding introductory RNA-seq materials".
 
-### Starting or joining a conversation
+## Starting or joining a conversation
 
 **To ask a new question or start a conversation**, choose a relevant channel and give your topic a short, descriptive title, just as you would write a subject line for a new email.
 
@@ -40,14 +28,14 @@ For example, a conversation in `education-and-training` might have the topic “
 You don't need to search through old topics or find a perfect match before asking a new question. If someone knows of a related discussion, they can point you to it.
 
 ::: {.callout-tip title="Not sure where to post?"}
-Try `general`, or `no-stupid-questions` for questions about Bioconductor, R, and the community.
+Try `#general`, or `#no-stupid-questions` for questions about Bioconductor, R, and the community.
 
 You don't need to find the perfect channel or topic title before posting. Other community members can help, and messages can be moved if needed.
 
 For help troubleshooting a specific Bioconductor package, please use the [support site](https://support.bioconductor.org/).
 :::
 
-### Finding channels and following discussions
+## Finding channels and following discussions
 
 New members are subscribed to four channels to get started:
 
@@ -62,7 +50,7 @@ Click **Browse more channels** at the bottom of your channel list to explore and
 
 **You don't need to follow everything.** Start with a few channels, read along if you prefer, and join conversations when you have a question or something to share.
 
-### A short tour and further help
+## A short tour and further help
 
 Watch the [two-minute Zulip tour](https://static.zulipchat.com/static/navigation-tour-video/fffe1bb0baefab1a448fd9082738eaf271feb7ec247901242cd7bccb2280914b.mp4) for a demonstration of channels, topics, navigation, and starting a conversation.
 
@@ -73,8 +61,3 @@ The community previously used [Slack](https://slack.com) for chat. We moved to Z
 
 Read more in [Bioconductor is Moving from Slack to Zulip for Community Chat](https://blog.bioconductor.org/posts/2025-05-29-slack-to-zulip/).
 :::
-
-## Additional resources
-
-- [Bioconductor Support and Community Forum](https://bioconductor.org/help/support/)
-- [Bioconductor Posting Guide](https://bioconductor.org/help/support/posting-guide/)
