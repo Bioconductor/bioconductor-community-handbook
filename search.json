@@ -73,47 +73,102 @@
     ]
   },
   {
-    "objectID": "guides/communication/communicating_with_the_community.html",
-    "href": "guides/communication/communicating_with_the_community.html",
-    "title": "Communicating with the community",
+    "objectID": "guides/communication/community_communication_channels.html",
+    "href": "guides/communication/community_communication_channels.html",
+    "title": "Community communication channels",
     "section": "",
-    "text": "The bioc-devel mailing list\nThis section introduces communication practices, resources, and pathways for coordinating work and building relationships with other community members.\nThe bioc-devel mailing list was created in March 2004 for package development and Bioconductor infrastructure questions, particularly where input from developers or the core team may be needed.\nNew users can subscribe to the mailing list at https://stat.ethz.ch/mailman/listinfo/bioc-devel.",
+    "text": "The bioc-devel mailing list\nBioconductor community members use several platforms for questions, discussion, and coordination. Choose the channel that best fits your needs.\nCreated in March 2004, the bioc-devel mailing list is for package development and Bioconductor infrastructure questions, particularly when input from developers or the core team may be needed.\nNew users can subscribe to the mailing list at https://stat.ethz.ch/mailman/listinfo/bioc-devel.",
     "crumbs": [
       "Guide for Communication",
-      "Communicating with the community"
+      "Community communication channels"
     ]
   },
   {
-    "objectID": "guides/communication/communicating_with_the_community.html#the-bioconductor-support-site",
-    "href": "guides/communication/communicating_with_the_community.html#the-bioconductor-support-site",
-    "title": "Communicating with the community",
+    "objectID": "guides/communication/community_communication_channels.html#the-bioconductor-support-site",
+    "href": "guides/communication/community_communication_channels.html#the-bioconductor-support-site",
+    "title": "Community communication channels",
     "section": "The Bioconductor support site",
-    "text": "The Bioconductor support site\nThe Bioconductor support site was inaugurated in August 2014. It is the best place for questions about using Bioconductor packages because the answers are archived, searchable, and can help future users with the same issue.\nThe support site is available at https://support.bioconductor.org, where new users can freely create an account to post questions and answers.",
+    "text": "The Bioconductor support site\nLaunched in August 2014, the Bioconductor support site is the best place for questions about using Bioconductor packages. Its archived, searchable answers can help future users with the same issue.\nThe support site is available at https://support.bioconductor.org, where new users can freely create an account to post questions and answers.",
     "crumbs": [
       "Guide for Communication",
-      "Communicating with the community"
+      "Community communication channels"
     ]
   },
   {
-    "objectID": "guides/communication/communicating_with_the_community.html#the-bioconductor-zulip-chat",
-    "href": "guides/communication/communicating_with_the_community.html#the-bioconductor-zulip-chat",
-    "title": "Communicating with the community",
+    "objectID": "guides/communication/community_communication_channels.html#the-bioconductor-zulip-chat",
+    "href": "guides/communication/community_communication_channels.html#the-bioconductor-zulip-chat",
+    "title": "Community communication channels",
     "section": "The Bioconductor Zulip chat",
-    "text": "The Bioconductor Zulip chat\nBioconductor uses Zulip, a freely accessible, open-source chat platform.\nNew users can sign up at https://chat.bioconductor.org/.\nThe Bioconductor Zulip chat is intended for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working group conversations, event planning, and questions that don’t naturally fit the support site or bioc-devel.\n\nUnderstanding channels and topics\nZulip organises messages into channels and topics:\n\nA channel is a broad area of interest, such as education-and-training or events.\nA topic is the subject of a conversation within that channel. Think of it like an email subject line.\n\nFor example, a conversation in education-and-training might have the topic “Finding introductory RNA-seq materials”.\n\n\nStarting or joining a conversation\nTo ask a new question or start a conversation, choose a relevant channel and give your topic a short, descriptive title, just as you would write a subject line for a new email.\nTo reply to a conversation you are reading, write in that conversation’s existing topic, just as you would reply to an email thread.\nYou don’t need to search through old topics or find a perfect match before asking a new question. If someone knows of a related discussion, they can point you to it.\n\n\n\n\n\n\nTipNot sure where to post?\n\n\n\nTry general, or no-stupid-questions for questions about Bioconductor, R, and the community.\nYou don’t need to find the perfect channel or topic title before posting. Other community members can help, and messages can be moved if needed.\nFor help troubleshooting a specific Bioconductor package, please use the support site.\n\n\n\n\nFinding channels and following discussions\nNew members are subscribed to four channels to get started:\n\ngeneral: Community discussions and updates.\nrandom: Informal chat.\nintroductions: Introduce yourself and meet other members.\nevents: Workshops, talks, and conferences.\n\nThere are also channels for scientific interests, software development, training, regional communities, and specific projects.\nClick Browse more channels at the bottom of your channel list to explore and subscribe. You’re welcome to join any public channel that interests you.\nYou don’t need to follow everything. Start with a few channels, read along if you prefer, and join conversations when you have a question or something to share.\n\n\nA short tour and further help\nWatch the two-minute Zulip tour for a demonstration of channels, topics, navigation, and starting a conversation.\nFor more detailed instructions, see Zulip’s getting-started guide.\n\n\n\n\n\n\nNoteOur move from Slack\n\n\n\nThe community previously used Slack for chat. We moved to Zulip on 2 June 2025 to ensure long-term access to discussions and better reflect the community’s open-source values.\nRead more in Bioconductor is Moving from Slack to Zulip for Community Chat.",
+    "text": "The Bioconductor Zulip chat\nBioconductor uses Zulip, a freely accessible, open-source chat platform, for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working groups, and event planning.\nNew users can sign up at https://chat.bioconductor.org/. See Using the Bioconductor Zulip chat for an introduction to channels, topics, and getting started.",
     "crumbs": [
       "Guide for Communication",
-      "Communicating with the community"
+      "Community communication channels"
     ]
   },
   {
-    "objectID": "guides/communication/communicating_with_the_community.html#additional-resources",
-    "href": "guides/communication/communicating_with_the_community.html#additional-resources",
-    "title": "Communicating with the community",
+    "objectID": "guides/communication/community_communication_channels.html#additional-resources",
+    "href": "guides/communication/community_communication_channels.html#additional-resources",
+    "title": "Community communication channels",
     "section": "Additional resources",
     "text": "Additional resources\n\nBioconductor Support and Community Forum\nBioconductor Posting Guide",
     "crumbs": [
       "Guide for Communication",
-      "Communicating with the community"
+      "Community communication channels"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_the_zulip_chat.html",
+    "href": "guides/communication/using_the_zulip_chat.html",
+    "title": "Using the Bioconductor Zulip chat",
+    "section": "",
+    "text": "Understanding channels and topics\nBioconductor uses Zulip, a freely accessible, open-source chat platform, for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working groups, and event planning.\nNew users can sign up at https://chat.bioconductor.org/. See Using the Bioconductor Zulip chat for an introduction to channels, topics, and getting started.\nZulip organises messages into channels and topics:\nFor example, a conversation in education-and-training might have the topic “Finding introductory RNA-seq materials”.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using the Bioconductor Zulip chat"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_the_zulip_chat.html#understanding-channels-and-topics",
+    "href": "guides/communication/using_the_zulip_chat.html#understanding-channels-and-topics",
+    "title": "Using the Bioconductor Zulip chat",
+    "section": "",
+    "text": "A channel is a broad area of interest, such as education-and-training or events.\nA topic is the subject of a conversation within that channel. Think of it like an email subject line.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using the Bioconductor Zulip chat"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_the_zulip_chat.html#starting-or-joining-a-conversation",
+    "href": "guides/communication/using_the_zulip_chat.html#starting-or-joining-a-conversation",
+    "title": "Using the Bioconductor Zulip chat",
+    "section": "Starting or joining a conversation",
+    "text": "Starting or joining a conversation\nTo ask a new question or start a conversation, choose a relevant channel and give your topic a short, descriptive title, just as you would write a subject line for a new email.\nTo reply to a conversation you are reading, write in that conversation’s existing topic, just as you would reply to an email thread.\nYou don’t need to search through old topics or find a perfect match before asking a new question. If someone knows of a related discussion, they can point you to it.\n\n\n\n\n\n\nTipNot sure where to post?\n\n\n\nTry #general, or #no-stupid-questions for questions about Bioconductor, R, and the community.\nYou don’t need to find the perfect channel or topic title before posting. Other community members can help, and messages can be moved if needed.\nFor help troubleshooting a specific Bioconductor package, please use the support site.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using the Bioconductor Zulip chat"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_the_zulip_chat.html#finding-channels-and-following-discussions",
+    "href": "guides/communication/using_the_zulip_chat.html#finding-channels-and-following-discussions",
+    "title": "Using the Bioconductor Zulip chat",
+    "section": "Finding channels and following discussions",
+    "text": "Finding channels and following discussions\nNew members are subscribed to four channels to get started:\n\ngeneral: Community discussions and updates.\nrandom: Informal chat.\nintroductions: Introduce yourself and meet other members.\nevents: Workshops, talks, and conferences.\n\nThere are also channels for scientific interests, software development, training, regional communities, and specific projects.\nClick Browse more channels at the bottom of your channel list to explore and subscribe. You’re welcome to join any public channel that interests you.\nYou don’t need to follow everything. Start with a few channels, read along if you prefer, and join conversations when you have a question or something to share.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using the Bioconductor Zulip chat"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_the_zulip_chat.html#a-short-tour-and-further-help",
+    "href": "guides/communication/using_the_zulip_chat.html#a-short-tour-and-further-help",
+    "title": "Using the Bioconductor Zulip chat",
+    "section": "A short tour and further help",
+    "text": "A short tour and further help\nWatch the two-minute Zulip tour for a demonstration of channels, topics, navigation, and starting a conversation.\nFor more detailed instructions, see Zulip’s getting-started guide.\n\n\n\n\n\n\nNoteOur move from Slack\n\n\n\nThe community previously used Slack for chat. We moved to Zulip on 2 June 2025 to ensure long-term access to discussions and better reflect the community’s open-source values.\nRead more in Bioconductor is Moving from Slack to Zulip for Community Chat.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using the Bioconductor Zulip chat"
     ]
   },
   {
