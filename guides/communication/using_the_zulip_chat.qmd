@@ -7,7 +7,7 @@ New users can sign up at <https://chat.bioconductor.org/>. See [Using the Biocon
 ::: {.callout-tip}
 ## Are you in the right place?
 
-For an overview of all community communication channels, see [Community communication channels](communicating_with_the_community.qmd).
+For an overview of all community communication channels, see [Community communication channels](community_communication_channels.qmd).
 :::
 
 ## Understanding channels and topics
