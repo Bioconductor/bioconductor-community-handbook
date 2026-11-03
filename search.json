@@ -73,47 +73,47 @@
     ]
   },
   {
-    "objectID": "guides/communication/community_communication_channels.html",
-    "href": "guides/communication/community_communication_channels.html",
-    "title": "Community communication channels",
+    "objectID": "guides/communication/community_channels.html",
+    "href": "guides/communication/community_channels.html",
+    "title": "Community channels",
     "section": "",
     "text": "The bioc-devel mailing list\nBioconductor community members use several platforms for questions, discussion, and coordination. Choose the channel that best fits your needs.\nCreated in March 2004, the bioc-devel mailing list is for package development and Bioconductor infrastructure questions, particularly when input from developers or the core team may be needed.\nNew users can subscribe to the mailing list at https://stat.ethz.ch/mailman/listinfo/bioc-devel.",
     "crumbs": [
       "Guide for Communication",
-      "Community communication channels"
+      "Community channels"
     ]
   },
   {
-    "objectID": "guides/communication/community_communication_channels.html#the-bioconductor-support-site",
-    "href": "guides/communication/community_communication_channels.html#the-bioconductor-support-site",
-    "title": "Community communication channels",
+    "objectID": "guides/communication/community_channels.html#the-bioconductor-support-site",
+    "href": "guides/communication/community_channels.html#the-bioconductor-support-site",
+    "title": "Community channels",
     "section": "The Bioconductor support site",
     "text": "The Bioconductor support site\nLaunched in August 2014, the Bioconductor support site is the best place for questions about using Bioconductor packages. Its archived, searchable answers can help future users with the same issue.\nThe support site is available at https://support.bioconductor.org, where new users can freely create an account to post questions and answers.",
     "crumbs": [
       "Guide for Communication",
-      "Community communication channels"
+      "Community channels"
     ]
   },
   {
-    "objectID": "guides/communication/community_communication_channels.html#the-bioconductor-zulip-chat",
-    "href": "guides/communication/community_communication_channels.html#the-bioconductor-zulip-chat",
-    "title": "Community communication channels",
+    "objectID": "guides/communication/community_channels.html#the-bioconductor-zulip-chat",
+    "href": "guides/communication/community_channels.html#the-bioconductor-zulip-chat",
+    "title": "Community channels",
     "section": "The Bioconductor Zulip chat",
     "text": "The Bioconductor Zulip chat\nBioconductor uses Zulip, a freely accessible, open-source chat platform, for community discussion, brainstorming, coordination, introductions, announcements, mentoring, working groups, and event planning.\nNew users can sign up at https://chat.bioconductor.org/. See Using the Bioconductor Zulip chat for an introduction to channels, topics, and getting started.",
     "crumbs": [
       "Guide for Communication",
-      "Community communication channels"
+      "Community channels"
     ]
   },
   {
-    "objectID": "guides/communication/community_communication_channels.html#additional-resources",
-    "href": "guides/communication/community_communication_channels.html#additional-resources",
-    "title": "Community communication channels",
+    "objectID": "guides/communication/community_channels.html#additional-resources",
+    "href": "guides/communication/community_channels.html#additional-resources",
+    "title": "Community channels",
     "section": "Additional resources",
     "text": "Additional resources\n\nBioconductor Support and Community Forum\nBioconductor Posting Guide",
     "crumbs": [
       "Guide for Communication",
-      "Community communication channels"
+      "Community channels"
     ]
   },
   {
