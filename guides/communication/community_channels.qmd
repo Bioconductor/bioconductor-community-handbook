@@ -1,4 +1,4 @@
-# Community communication channels {.unnumbered}
+# Community channels {.unnumbered}
 
 Bioconductor community members use several platforms for questions, discussion, and coordination. Choose the channel that best fits your needs.
 
