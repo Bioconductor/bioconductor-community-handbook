@@ -1,0 +1,37 @@
+# Using artificial intelligence {.unnumbered}
+
+Artificial intelligence (AI) tools, including generative assistants, are omnipresent and it may be tempting to use them in many contributions to the Bioconductor community.
+
+This page discusses accepted uses of AI in Bioconductor.
+
+## Code and package development
+
+::: {.callout-caution}
+## Section in construction
+
+Content coming soon.
+:::
+
+## Event organisation
+
+::: {.callout-caution}
+## Section in construction
+
+Content coming soon.
+:::
+
+## Slides, talks, and teaching materials
+
+::: {.callout-caution}
+## Section in construction
+
+Content coming soon.
+:::
+
+## Community communication
+
+::: {.callout-caution}
+## Section in construction
+
+Content coming soon.
+:::
