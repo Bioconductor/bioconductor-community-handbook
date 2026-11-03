@@ -117,6 +117,61 @@
     ]
   },
   {
+    "objectID": "guides/communication/using_ai.html",
+    "href": "guides/communication/using_ai.html",
+    "title": "Using artificial intelligence",
+    "section": "",
+    "text": "Code and package development\nArtificial intelligence (AI) tools, including generative assistants, are omnipresent and it may be tempting to use them in many contributions to the Bioconductor community.\nThis page discusses accepted uses of AI in Bioconductor.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using artificial intelligence"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_ai.html#code-and-package-development",
+    "href": "guides/communication/using_ai.html#code-and-package-development",
+    "title": "Using artificial intelligence",
+    "section": "",
+    "text": "CautionSection in construction\n\n\n\nContent coming soon.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using artificial intelligence"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_ai.html#event-organisation",
+    "href": "guides/communication/using_ai.html#event-organisation",
+    "title": "Using artificial intelligence",
+    "section": "Event organisation",
+    "text": "Event organisation\n\n\n\n\n\n\nCautionSection in construction\n\n\n\nContent coming soon.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using artificial intelligence"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_ai.html#slides-talks-and-teaching-materials",
+    "href": "guides/communication/using_ai.html#slides-talks-and-teaching-materials",
+    "title": "Using artificial intelligence",
+    "section": "Slides, talks, and teaching materials",
+    "text": "Slides, talks, and teaching materials\n\n\n\n\n\n\nCautionSection in construction\n\n\n\nContent coming soon.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using artificial intelligence"
+    ]
+  },
+  {
+    "objectID": "guides/communication/using_ai.html#community-communication",
+    "href": "guides/communication/using_ai.html#community-communication",
+    "title": "Using artificial intelligence",
+    "section": "Community communication",
+    "text": "Community communication\n\n\n\n\n\n\nCautionSection in construction\n\n\n\nContent coming soon.",
+    "crumbs": [
+      "Guide for Communication",
+      "Using artificial intelligence"
+    ]
+  },
+  {
     "objectID": "guides/communication/using_the_zulip_chat.html",
     "href": "guides/communication/using_the_zulip_chat.html",
     "title": "Using the Bioconductor Zulip chat",
