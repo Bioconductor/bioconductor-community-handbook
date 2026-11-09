@@ -493,7 +493,7 @@
     "href": "contributing.html",
     "title": "Contributing",
     "section": "",
-    "text": "Proposing a change\nWelcome, and thank you for your interest in contributing to the Bioconductor All-Community Handbook!\nEveryone is welcome to help shape the Bioconductor All-Community Handbook. Whether you are new to Bioconductor or have been involved for years, your experience and perspective can help make this resource more useful and accessible. Contributions of all sizes are appreciated: fixing a typo, clarifying an explanation, sharing a resource, or suggesting a new topic. You do not need to be an expert in GitHub or write a finished chapter to get involved. Our ambition is to author this book as a community, drawing on our shared knowledge and diverse experiences.\nThe two main ways to contribute are to discuss ideas through GitHub issues and propose changes through pull requests.\nPlease follow our Code of Conduct in all interactions.\nThe handbook is maintained in a GitHub repository. Changes are proposed through pull requests, which let others read and discuss your edits before they become part of the handbook.",
+    "text": "Proposing a change\nWelcome, and thank you for your interest in contributing to the Bioconductor All-Community Handbook!\nEveryone is welcome to help shape the Bioconductor All-Community Handbook. Whether you are new to Bioconductor or have been involved for years, your experience and perspective can help make this resource more useful and accessible.\nContributions of all sizes are appreciated: fixing a typo, clarifying an explanation, sharing a resource, or suggesting a new topic. You do not need to be an expert in GitHub or write a finished chapter to get involved. Our ambition is to author this book as a community, drawing on our shared knowledge and diverse experiences.\nThe two main ways to contribute are to discuss ideas through GitHub issues and propose changes through pull requests.\nPlease follow our Code of Conduct in all interactions.\nThe handbook is maintained in a GitHub repository. Changes are proposed through pull requests, which let others read and discuss your edits before they become part of the handbook.",
     "crumbs": [
       "Contributing"
     ]
@@ -533,7 +533,18 @@
     "href": "appendices/contributors.html",
     "title": "Contributors",
     "section": "",
-    "text": "K\nIndividual contributors are welcome to provide their details below (alphabetical order: first name, last name).\nKevin Rue-Albrecht",
+    "text": "J\nIndividual contributors are welcome to provide their details below (alphabetical order: first name, last name).\nJyoti Bhogal",
+    "crumbs": [
+      "Appendices",
+      "Contributors"
+    ]
+  },
+  {
+    "objectID": "appendices/contributors.html#j",
+    "href": "appendices/contributors.html#j",
+    "title": "Contributors",
+    "section": "",
+    "text": "GitHub: jyoti-bhogal\nORCID: 0000-0002-6289-0737\nRole(s): creation",
     "crumbs": [
       "Appendices",
       "Contributors"
@@ -543,8 +554,19 @@
     "objectID": "appendices/contributors.html#k",
     "href": "appendices/contributors.html#k",
     "title": "Contributors",
-    "section": "",
-    "text": "GitHub: kevinrue\nORCID: 0000-0003-3899-3872",
+    "section": "K",
+    "text": "K\nKevin Rue-Albrecht\n\nGitHub: kevinrue\nORCID: 0000-0003-3899-3872\nRole(s): creation, content, maintenance",
+    "crumbs": [
+      "Appendices",
+      "Contributors"
+    ]
+  },
+  {
+    "objectID": "appendices/contributors.html#m",
+    "href": "appendices/contributors.html#m",
+    "title": "Contributors",
+    "section": "M",
+    "text": "M\nMaria Doyle\n\nGitHub: mblue9\nORCID: 0000-0003-4847-8436\nRole(s): creation, content",
     "crumbs": [
       "Appendices",
       "Contributors"
