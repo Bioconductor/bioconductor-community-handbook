@@ -2,7 +2,9 @@
 
 *Welcome, and thank you for your interest in contributing to the Bioconductor All-Community Handbook!*
 
-Everyone is welcome to help shape the Bioconductor All-Community Handbook. Whether you are new to Bioconductor or have been involved for years, your experience and perspective can help make this resource more useful and accessible. Contributions of all sizes are appreciated: fixing a typo, clarifying an explanation, sharing a resource, or suggesting a new topic. You do not need to be an expert in GitHub or write a finished chapter to get involved. Our ambition is to author this book as a community, drawing on our shared knowledge and diverse experiences.
+Everyone is welcome to help shape the *Bioconductor All-Community Handbook*. Whether you are new to Bioconductor or have been involved for years, your experience and perspective can help make this resource more useful and accessible.
+
+Contributions of all sizes are appreciated: fixing a typo, clarifying an explanation, sharing a resource, or suggesting a new topic. You do not need to be an expert in GitHub or write a finished chapter to get involved. Our ambition is to author this book as a community, drawing on our shared knowledge and diverse experiences.
 
 The two main ways to contribute are to discuss ideas through [GitHub issues][book-github-issues] and propose changes through [pull requests][book-pull-requests].
 
