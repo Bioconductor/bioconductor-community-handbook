@@ -2,6 +2,10 @@ project:
   type: book
 
 book:
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Something to share? Something missing?** Everyone is welcome to contribute to this handbook. Find out how in our [contribution guide](contributing.qmd)."
   title: "Bioconductor All‑Community Handbook"
   favicon: images/favicon.ico
   cover-image: images/bach_logo.png

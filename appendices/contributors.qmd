@@ -2,9 +2,26 @@
 
 Individual contributors are welcome to provide their details below (alphabetical order: first name, last name).
 
+## J
+
+**Jyoti Bhogal**
+
+* GitHub: [jyoti-bhogal](https://github.com/jyoti-bhogal)
+* ORCID: [0000-0002-6289-0737](https://orcid.org/0000-0002-6289-0737)
+* Role(s): creation
+
 ## K
 
 **Kevin Rue-Albrecht**
 
 * GitHub: [kevinrue](https://github.com/kevinrue)
 * ORCID: [0000-0003-3899-3872](https://orcid.org/0000-0003-3899-3872)
+* Role(s): creation, content, maintenance
+
+## M
+
+**Maria Doyle**
+
+* GitHub: [mblue9](https://github.com/mblue9)
+* ORCID: [0000-0003-4847-8436](https://orcid.org/0000-0003-4847-8436)
+* Role(s): creation, content
