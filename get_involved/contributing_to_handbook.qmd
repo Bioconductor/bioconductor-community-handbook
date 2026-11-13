@@ -1,4 +1,4 @@
-# Contributing {.unnumbered}
+# Contributing to the handbook {.unnumbered}
 
 *Welcome, and thank you for your interest in contributing to the Bioconductor All-Community Handbook!*
 
