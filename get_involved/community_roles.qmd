@@ -35,7 +35,14 @@ The Bioconductor website maintains a [Code of Conduct](https://bioconductor.org/
 
 ## Working groups
 
-The Bioconductor working groups - current, proposed, and retired - are described on [this website](https://workinggroups.bioconductor.org/).
+Bioconductor working groups bring community members together around a shared topic or a defined set of short-term goals.
+They can focus on areas such as training, package development, data interoperability, events, or community support.
+Groups work toward agreed deliverables and may disband when their goals are complete; committees generally provide longer-term guidance or support.
+
+The [Bioconductor Working Groups site](https://workinggroups.bioconductor.org/) lists active groups, groups seeking participants, and inactive groups, along with their aims and contact channels.
+If you would like to join an active group, contact its lead through the listed Bioconductor Zulip channel.
+You can also propose a new group by submitting a pull request to the working groups site with its purpose, lead, initial members, relevant links, and initial goals.
+Proposals are reviewed by the Technical Advisory Board and/or Community Advisory Board.
 
 ## New package review
 
