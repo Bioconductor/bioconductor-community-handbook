@@ -1,0 +1,23 @@
+# Getting involved in the community {.unnumbered}
+
+The community is diverse and anyone can contribute without necessarily taking on an official leadership role.
+
+## Core team
+
+placeholder
+
+## Community Advisory Board (CAB)
+
+More information on [this page](https://bioconductor.org/about/community-advisory-board/) of the Bioconductor website.
+
+## Technical Advisory Board (TAB)
+
+More information on [this page](https://bioconductor.org/about/technical-advisory-board/) of the Bioconductor website.
+
+## Code of Conduct committee (CoC)
+
+The Bioconductor website maintains a [Code of Conduct](https://bioconductor.org/about/code-of-conduct/) page that redirects to the multilingual [Project-wide Code of Conduct statement for Bioconductor](https://bioconductor.github.io/bioc_coc_multilingual/) which is progressively being transfered to the [Code of Conduct](../code_of_conduct.md) section of this handbook.
+
+## Working groups
+
+The Bioconductor working groups - current, proposed, and retired - are described on [this website](https://workinggroups.bioconductor.org/).
