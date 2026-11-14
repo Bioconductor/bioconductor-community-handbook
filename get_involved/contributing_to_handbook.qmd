@@ -33,6 +33,10 @@ Feedback is a conversation: you are welcome to ask for clarification or help, an
 
 Once the contribution is ready and approved, a maintainer can merge it into the handbook.
 
+## Credits
+
+We want to recognize the people who help create and maintain this handbook. After contributing, please add your name and details to the [contributors list](../appendices/contributors.qmd), following its alphabetical order and entry format. You can include links such as your GitHub profile or ORCID iD, and indicate your contribution role(s), such as creation, content, or maintenance. You can add your entry in the same pull request as your contribution, or submit it separately.
+
 ::: {.callout-tip}
 ## Additional resources
 
