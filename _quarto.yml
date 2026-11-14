@@ -43,7 +43,7 @@ book:
       chapters:
         - code_of_conduct/en-US.qmd
         - code_of_conduct/fr-FR.qmd
-    - part: get_involved.md
+    - part: get_involved.qmd
       chapters:
         - get_involved/contributing_to_handbook.qmd
         - get_involved/community_roles.qmd
