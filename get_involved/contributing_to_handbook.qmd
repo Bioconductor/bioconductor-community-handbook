@@ -8,7 +8,7 @@ Contributions of all sizes are appreciated: fixing a typo, clarifying an explana
 
 The two main ways to contribute are to discuss ideas through [GitHub issues][book-github-issues] and propose changes through [pull requests][book-pull-requests].
 
-Please follow our [Code of Conduct](code_of_conduct/en-US.qmd) in all interactions.
+Please follow our [Code of Conduct](../code_of_conduct/en-US.qmd) in all interactions.
 
 ## Proposing a change
 
@@ -22,7 +22,7 @@ The handbook is maintained in a [GitHub repository](https://github.com/Bioconduc
 
 You are welcome to [open an issue directly on the book's repository](https://github.com/Bioconductor/bioconductor-community-handbook/issues) to discuss content you plan to add, suggest a change, flag a problem, or ask for help. For larger additions, sharing your ideas early can help you explore the scope and find others interested in contributing.
 
-You can also reach out through the channels listed in [Communicating with the community](guides/communication/communicating_with_the_community.qmd) to gather ideas, ask questions, or find collaborators. You do not need a finished proposal to start a conversation.
+You can also reach out through the channels listed in [Community channels](../guides/communication/community_channels.qmd) to gather ideas, ask questions, or find collaborators. You do not need a finished proposal to start a conversation.
 
 ## Review and inclusion
 
@@ -32,6 +32,10 @@ Clarifying questions may be asked and small edits may be requested.
 Feedback is a conversation: you are welcome to ask for clarification or help, and further commits to your branch will update the pull request automatically.
 
 Once the contribution is ready and approved, a maintainer can merge it into the handbook.
+
+## Credits
+
+We want to recognize the people who help create and maintain this handbook. After contributing, please add your name and details to the [contributors list](../appendices/contributors.qmd), following its alphabetical order and entry format. You can include links such as your GitHub profile or ORCID iD, and indicate your contribution role(s), such as creation, content, or maintenance. You can add your entry in the same pull request as your contribution, or submit it separately.
 
 ::: {.callout-tip}
 ## Additional resources
