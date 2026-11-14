@@ -1,0 +1,8 @@
+# Getting involved {.unnumbered}
+
+Bioconductor thrives through the participation of its users, developers, package maintainers, educators, and community leaders.
+You can get involved by asking questions, sharing your experience, improving this handbook, contributing to packages, or helping guide and support the wider community.
+No single level of expertise or formal role is required to make a useful contribution.
+
+This section introduces practical ways to participate: how to contribute to the handbook and how to learn about community roles, groups, and review activities.
+Choose a starting point that fits your interests and time, and build your involvement as you go.

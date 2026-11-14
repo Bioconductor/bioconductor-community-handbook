@@ -1,6 +1,8 @@
 # Getting involved in the community {.unnumbered}
 
-The community is diverse and anyone can contribute without necessarily taking on an official leadership role.
+Bioconductor depends on contributions from people with many different roles and levels of involvement. Some help guide the project through its core team, advisory boards, or committees; others contribute by maintaining packages, reviewing new submissions, supporting users, organizing events, or joining working groups. These contributions strengthen both the project’s technical foundations and its welcoming, collaborative community.
+
+This section introduces the groups and activities through which people help sustain Bioconductor, with links to learn more, get involved, or take on a formal role. Participation does not require a leadership title: sharing your skills, experience, and time in ways that suit you is a valuable contribution.
 
 ## Core team
 
