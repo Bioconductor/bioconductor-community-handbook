@@ -525,7 +525,7 @@
     "href": "get_involved/contributing_to_handbook.html#discussing-contributions",
     "title": "Contributing to the handbook",
     "section": "Discussing contributions",
-    "text": "Discussing contributions\nYou are welcome to open an issue directly on the book’s repository to discuss content you plan to add, suggest a change, flag a problem, or ask for help. For larger additions, sharing your ideas early can help you explore the scope and find others interested in contributing.\nYou can also reach out through the channels listed in Communicating with the community to gather ideas, ask questions, or find collaborators. You do not need a finished proposal to start a conversation.",
+    "text": "Discussing contributions\nYou are welcome to open an issue directly on the book’s repository to discuss content you plan to add, suggest a change, flag a problem, or ask for help. For larger additions, sharing your ideas early can help you explore the scope and find others interested in contributing.\nYou can also reach out through the channels listed in Community channels to gather ideas, ask questions, or find collaborators. You do not need a finished proposal to start a conversation.",
     "crumbs": [
       "Getting involved",
       "Contributing to the handbook"
@@ -536,7 +536,18 @@
     "href": "get_involved/contributing_to_handbook.html#review-and-inclusion",
     "title": "Contributing to the handbook",
     "section": "Review and inclusion",
-    "text": "Review and inclusion\nReview is intended to be light-touch and collaborative. Contributions are reviewed for clarity, relevance, and consistency with the rest of the handbook. Clarifying questions may be asked and small edits may be requested. Feedback is a conversation: you are welcome to ask for clarification or help, and further commits to your branch will update the pull request automatically.\nOnce the contribution is ready and approved, a maintainer can merge it into the handbook.\n\n\n\n\n\n\nTipAdditional resources\n\n\n\nContributing to The Turing Way links to useful resources on collaborating through GitHub and writing in Markdown, which can also help you contribute to this handbook.",
+    "text": "Review and inclusion\nReview is intended to be light-touch and collaborative. Contributions are reviewed for clarity, relevance, and consistency with the rest of the handbook. Clarifying questions may be asked and small edits may be requested. Feedback is a conversation: you are welcome to ask for clarification or help, and further commits to your branch will update the pull request automatically.\nOnce the contribution is ready and approved, a maintainer can merge it into the handbook.",
+    "crumbs": [
+      "Getting involved",
+      "Contributing to the handbook"
+    ]
+  },
+  {
+    "objectID": "get_involved/contributing_to_handbook.html#credits",
+    "href": "get_involved/contributing_to_handbook.html#credits",
+    "title": "Contributing to the handbook",
+    "section": "Credits",
+    "text": "Credits\nWe want to recognize the people who help create and maintain this handbook. After contributing, please add your name and details to the contributors list, following its alphabetical order and entry format. You can include links such as your GitHub profile or ORCID iD, and indicate your contribution role(s), such as creation, content, or maintenance. You can add your entry in the same pull request as your contribution, or submit it separately.\n\n\n\n\n\n\nTipAdditional resources\n\n\n\nContributing to The Turing Way links to useful resources on collaborating through GitHub and writing in Markdown, which can also help you contribute to this handbook.",
     "crumbs": [
       "Getting involved",
       "Contributing to the handbook"
