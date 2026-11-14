@@ -1,0 +1,57 @@
+# Getting involved in the community {.unnumbered}
+
+The community is diverse and anyone can contribute without necessarily taking on an official leadership role.
+
+## Core team
+
+The Bioconductor core team supports the project’s day-to-day operation and development.
+Its work includes maintaining project infrastructure, coordinating releases, and helping the community resolve technical and organizational issues.
+Core team members bring experience from across the project, including software, infrastructure, and community support.
+
+Members of the core team are listed on the [Bioconductor Core Team page](https://bioconductor.org/about/core-team/).
+
+The core team is one way to take on a formal role, but it is far from a prerequisite for contributing.
+Package authors and maintainers, educators, users who answer questions, and people who help organize community activities all make valuable contributions.
+Many people participate in these ways without a formal appointment.
+
+Reach out to the core team at <bioconductorcoreteam@gmail.com>.
+
+## Community Advisory Board (CAB)
+
+The Community Advisory Board supports the Bioconductor mission by coordinating training and outreach, and by helping users and developers participate productively and respectfully at every experience level.
+The board also helps connect community members with events and opportunities to contribute.
+CAB membership and governance are described on the [Bioconductor CAB page](https://bioconductor.org/about/community-advisory-board/), which also provides contact information and updates about membership.
+
+## Technical Advisory Board (TAB)
+
+The Technical Advisory Board develops strategies for the long-term technical suitability of Bioconductor’s core infrastructure.
+This includes package addition and distribution, user and developer support, and tools for the broader developer community.
+The TAB also identifies technical and scientific aspects of funding strategies that support Bioconductor’s long-term viability.
+See the [Bioconductor TAB page](https://bioconductor.org/about/technical-advisory-board/) for its governance, current membership, meeting information, and contact channel.
+
+## Code of Conduct committee (CoC)
+
+The Bioconductor website maintains a [Code of Conduct](https://bioconductor.org/about/code-of-conduct/) page that redirects to the multilingual [Project-wide Code of Conduct statement for Bioconductor](https://bioconductor.github.io/bioc_coc_multilingual/) which is progressively being transfered to the [Code of Conduct](../code_of_conduct.md) section of this handbook.
+
+## Working groups
+
+Bioconductor working groups bring community members together around a shared topic or a defined set of short-term goals.
+They can focus on areas such as training, package development, data interoperability, events, or community support.
+Groups work toward agreed deliverables and may disband when their goals are complete; committees generally provide longer-term guidance or support.
+
+The [Bioconductor Working Groups site](https://workinggroups.bioconductor.org/) lists active groups, groups seeking participants, and inactive groups, along with their aims and contact channels.
+If you would like to join an active group, contact its lead through the listed Bioconductor Zulip channel.
+You can also propose a new group by submitting a pull request to the working groups site with its purpose, lead, initial members, relevant links, and initial goals.
+Proposals are reviewed by the Technical Advisory Board and/or Community Advisory Board.
+
+## New package review
+
+Every package submitted to Bioconductor goes through community peer review before acceptance.
+Reviewers assess whether a package is suitable for Bioconductor and is usable, well documented, maintainable, and interoperable with the wider ecosystem.
+The process is collaborative: reviewers provide actionable feedback and work with submitters to address issues.
+
+Package authors can learn about submission requirements and the review process in the [Bioconductor package submission guide](https://contributions.bioconductor.org/).
+Community members who actively maintain a Bioconductor package can volunteer to review submissions.
+Reviews typically take 30 minutes to 1.5 hours, and assignments are distributed among active reviewers.
+New reviewers are onboarded with at least one paired review.
+See [Review Expectations](https://contributions.bioconductor.org/review-expectation.html) and [Volunteer to Review](https://contributions.bioconductor.org/volunteer-to-review.html) for details.

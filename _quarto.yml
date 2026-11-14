@@ -5,7 +5,7 @@ book:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Something to share? Something missing?** Everyone is welcome to contribute to this handbook. Find out how in our [contribution guide](contributing.qmd)."
+    content: "**Something to share? Something missing?** Everyone is welcome to contribute to this handbook. Find out how in our [contribution guide](get_involved/contributing_to_handbook.qmd)."
   title: "Bioconductor All‑Community Handbook"
   favicon: images/favicon.ico
   cover-image: images/bach_logo.png
@@ -43,8 +43,11 @@ book:
       chapters:
         - code_of_conduct/en-US.qmd
         - code_of_conduct/fr-FR.qmd
+    - part: get_involved.md
+      chapters:
+        - get_involved/contributing_to_handbook.qmd
+        - get_involved/community_roles.qmd
     - references.qmd
-    - contributing.qmd
   appendices:
     - appendices/contributors.qmd
     - appendices/definitions.qmd
