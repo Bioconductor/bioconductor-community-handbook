@@ -16,13 +16,23 @@ The core team is one way to take on a formal role, but it is far from a prerequi
 Package authors and maintainers, educators, users who answer questions, and people who help organize community activities all make valuable contributions.
 Many people participate in these ways without a formal appointment.
 
+::: {.callout-tip}
+## Contact
+
 Reach out to the core team at <bioconductorcoreteam@gmail.com>.
+:::
 
 ## Community Advisory Board (CAB)
 
 The Community Advisory Board supports the Bioconductor mission by coordinating training and outreach, and by helping users and developers participate productively and respectfully at every experience level.
 The board also helps connect community members with events and opportunities to contribute.
 CAB membership and governance are described on the [Bioconductor CAB page](https://bioconductor.org/about/community-advisory-board/), which also provides contact information and updates about membership.
+
+::: {.callout-tip}
+## Contact
+
+Reach out to the Community Advisory Board on the `#community-advisory-board` channel on the [Bioconductor community chat](https://chat.bioconductor.org/) or at <cab@bioconductor.org>.
+:::
 
 ## Technical Advisory Board (TAB)
 
@@ -31,9 +41,21 @@ This includes package addition and distribution, user and developer support, and
 The TAB also identifies technical and scientific aspects of funding strategies that support Bioconductor’s long-term viability.
 See the [Bioconductor TAB page](https://bioconductor.org/about/technical-advisory-board/) for its governance, current membership, meeting information, and contact channel.
 
+::: {.callout-tip}
+## Contact
+
+Reach out to the Technical Advisory Board on the `#tech-advisory-board` channel on the [Bioconductor community chat](https://chat.bioconductor.org/).
+:::
+
 ## Code of Conduct committee (CoC)
 
 The Bioconductor website maintains a [Code of Conduct](https://bioconductor.org/about/code-of-conduct/) page that redirects to the multilingual [Project-wide Code of Conduct statement for Bioconductor](https://bioconductor.github.io/bioc_coc_multilingual/) which is progressively being transfered to the [Code of Conduct](../code_of_conduct.md) section of this handbook.
+
+::: {.callout-tip}
+## Contact
+
+Reach out to the Code of Conduct committee at <code-of-conduct@bioconductor.org>.
+:::
 
 ## Working groups
 
@@ -42,9 +64,29 @@ They can focus on areas such as training, package development, data interoperabi
 Groups work toward agreed deliverables and may disband when their goals are complete; committees generally provide longer-term guidance or support.
 
 The [Bioconductor Working Groups site](https://workinggroups.bioconductor.org/) lists active groups, groups seeking participants, and inactive groups, along with their aims and contact channels.
-If you would like to join an active group, contact its lead through the listed Bioconductor Zulip channel.
 You can also propose a new group by submitting a pull request to the working groups site with its purpose, lead, initial members, relevant links, and initial goals.
 Proposals are reviewed by the Technical Advisory Board and/or Community Advisory Board.
+
+::: {.callout-tip}
+## Contact
+
+If you would like to join an active group, contact its lead through the Bioconductor Zulip channel listed on the [Bioconductor Working Groups site](https://workinggroups.bioconductor.org/).
+:::
+
+## Developer forum
+
+The Bioconductor Developer Forum is a regular platform for users and developers to present existing infrastructure, discuss future developments, and consider changes that may affect the project.
+Meetings encourage informal, technical presentations and discussion, and help share institutional knowledge, package work, sustainable development practices, and upstream changes.
+
+Attendance is open to all Bioconductor users and developers, regardless of background or experience.
+The forum usually meets on the last Thursday of each month at 4pm UTC for about an hour; check the [Developer Forum page](https://bioconductor.org/developers/developers-forum/) for the current schedule and announcements.
+Past meetings are available through the [Bioconductor YouTube channel](https://www.youtube.com/@Bioconductor) and the course materials page.
+
+::: {.callout-tip}
+## Contact
+
+To propose a presentation, contact the organizer listed on the [Developer Forum page](https://bioconductor.org/developers/developers-forum/).
+:::
 
 ## New package review
 
