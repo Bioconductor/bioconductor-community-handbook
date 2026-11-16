@@ -558,7 +558,18 @@
     "href": "get_involved/community_roles.html",
     "title": "Getting involved in the community",
     "section": "",
-    "text": "Core team\nBioconductor depends on contributions from people with many different roles and levels of involvement. Some help guide the project through its core team, advisory boards, or committees; others contribute by maintaining packages, reviewing new submissions, supporting users, organizing events, or joining working groups. These contributions strengthen both the project’s technical foundations and its welcoming, collaborative community.\nThis section introduces the groups and activities through which people help sustain Bioconductor, with links to learn more, get involved, or take on a formal role. Participation does not require a leadership title: sharing your skills, experience, and time in ways that suit you is a valuable contribution.\nThe Bioconductor core team supports the project’s day-to-day operation and development. Its work includes maintaining project infrastructure, coordinating releases, and helping the community resolve technical and organizational issues. Core team members bring experience from across the project, including software, infrastructure, and community support.\nMembers of the core team are listed on the Bioconductor Core Team page.\nThe core team is one way to take on a formal role, but it is far from a prerequisite for contributing. Package authors and maintainers, educators, users who answer questions, and people who help organize community activities all make valuable contributions. Many people participate in these ways without a formal appointment.\nReach out to the core team at bioconductorcoreteam@gmail.com.",
+    "text": "Core team\nBioconductor depends on contributions from people with many different roles and levels of involvement. Some help guide the project through its core team, advisory boards, or committees; others contribute by maintaining packages, reviewing new submissions, supporting users, organizing events, or joining working groups. These contributions strengthen both the project’s technical foundations and its welcoming, collaborative community.\nThis section introduces the groups and activities through which people help sustain Bioconductor, with links to learn more, get involved, or take on a formal role. Participation does not require a leadership title: sharing your skills, experience, and time in ways that suit you is a valuable contribution.\nThe Bioconductor core team supports the project’s day-to-day operation and development. Its work includes maintaining project infrastructure, coordinating releases, and helping the community resolve technical and organizational issues. Core team members bring experience from across the project, including software, infrastructure, and community support.\nMembers of the core team are listed on the Bioconductor Core Team page.\nThe core team is one way to take on a formal role, but it is far from a prerequisite for contributing. Package authors and maintainers, educators, users who answer questions, and people who help organize community activities all make valuable contributions. Many people participate in these ways without a formal appointment.",
+    "crumbs": [
+      "Getting involved",
+      "Getting involved in the community"
+    ]
+  },
+  {
+    "objectID": "get_involved/community_roles.html#core-team",
+    "href": "get_involved/community_roles.html#core-team",
+    "title": "Getting involved in the community",
+    "section": "",
+    "text": "TipContact\n\n\n\nReach out to the core team at bioconductorcoreteam@gmail.com.",
     "crumbs": [
       "Getting involved",
       "Getting involved in the community"
@@ -569,7 +580,7 @@
     "href": "get_involved/community_roles.html#community-advisory-board-cab",
     "title": "Getting involved in the community",
     "section": "Community Advisory Board (CAB)",
-    "text": "Community Advisory Board (CAB)\nThe Community Advisory Board supports the Bioconductor mission by coordinating training and outreach, and by helping users and developers participate productively and respectfully at every experience level. The board also helps connect community members with events and opportunities to contribute. CAB membership and governance are described on the Bioconductor CAB page, which also provides contact information and updates about membership.",
+    "text": "Community Advisory Board (CAB)\nThe Community Advisory Board supports the Bioconductor mission by coordinating training and outreach, and by helping users and developers participate productively and respectfully at every experience level. The board also helps connect community members with events and opportunities to contribute. CAB membership and governance are described on the Bioconductor CAB page, which also provides contact information and updates about membership.\n\n\n\n\n\n\nTipContact\n\n\n\nReach out to the Community Advisory Board on the #community-advisory-board channel on the Bioconductor community chat or at cab@bioconductor.org.",
     "crumbs": [
       "Getting involved",
       "Getting involved in the community"
@@ -580,7 +591,7 @@
     "href": "get_involved/community_roles.html#technical-advisory-board-tab",
     "title": "Getting involved in the community",
     "section": "Technical Advisory Board (TAB)",
-    "text": "Technical Advisory Board (TAB)\nThe Technical Advisory Board develops strategies for the long-term technical suitability of Bioconductor’s core infrastructure. This includes package addition and distribution, user and developer support, and tools for the broader developer community. The TAB also identifies technical and scientific aspects of funding strategies that support Bioconductor’s long-term viability. See the Bioconductor TAB page for its governance, current membership, meeting information, and contact channel.",
+    "text": "Technical Advisory Board (TAB)\nThe Technical Advisory Board develops strategies for the long-term technical suitability of Bioconductor’s core infrastructure. This includes package addition and distribution, user and developer support, and tools for the broader developer community. The TAB also identifies technical and scientific aspects of funding strategies that support Bioconductor’s long-term viability. See the Bioconductor TAB page for its governance, current membership, meeting information, and contact channel.\n\n\n\n\n\n\nTipContact\n\n\n\nReach out to the Technical Advisory Board on the #tech-advisory-board channel on the Bioconductor community chat.",
     "crumbs": [
       "Getting involved",
       "Getting involved in the community"
@@ -591,7 +602,7 @@
     "href": "get_involved/community_roles.html#code-of-conduct-committee-coc",
     "title": "Getting involved in the community",
     "section": "Code of Conduct committee (CoC)",
-    "text": "Code of Conduct committee (CoC)\nThe Bioconductor website maintains a Code of Conduct page that redirects to the multilingual Project-wide Code of Conduct statement for Bioconductor which is progressively being transfered to the Code of Conduct section of this handbook.",
+    "text": "Code of Conduct committee (CoC)\nThe Bioconductor website maintains a Code of Conduct page that redirects to the multilingual Project-wide Code of Conduct statement for Bioconductor which is progressively being transfered to the Code of Conduct section of this handbook.\n\n\n\n\n\n\nTipContact\n\n\n\nReach out to the Code of Conduct committee at code-of-conduct@bioconductor.org.",
     "crumbs": [
       "Getting involved",
       "Getting involved in the community"
@@ -602,7 +613,18 @@
     "href": "get_involved/community_roles.html#working-groups",
     "title": "Getting involved in the community",
     "section": "Working groups",
-    "text": "Working groups\nBioconductor working groups bring community members together around a shared topic or a defined set of short-term goals. They can focus on areas such as training, package development, data interoperability, events, or community support. Groups work toward agreed deliverables and may disband when their goals are complete; committees generally provide longer-term guidance or support.\nThe Bioconductor Working Groups site lists active groups, groups seeking participants, and inactive groups, along with their aims and contact channels. If you would like to join an active group, contact its lead through the listed Bioconductor Zulip channel. You can also propose a new group by submitting a pull request to the working groups site with its purpose, lead, initial members, relevant links, and initial goals. Proposals are reviewed by the Technical Advisory Board and/or Community Advisory Board.",
+    "text": "Working groups\nBioconductor working groups bring community members together around a shared topic or a defined set of short-term goals. They can focus on areas such as training, package development, data interoperability, events, or community support. Groups work toward agreed deliverables and may disband when their goals are complete; committees generally provide longer-term guidance or support.\nThe Bioconductor Working Groups site lists active groups, groups seeking participants, and inactive groups, along with their aims and contact channels. You can also propose a new group by submitting a pull request to the working groups site with its purpose, lead, initial members, relevant links, and initial goals. Proposals are reviewed by the Technical Advisory Board and/or Community Advisory Board.\n\n\n\n\n\n\nTipContact\n\n\n\nIf you would like to join an active group, contact its lead through the Bioconductor Zulip channel listed on the Bioconductor Working Groups site.",
+    "crumbs": [
+      "Getting involved",
+      "Getting involved in the community"
+    ]
+  },
+  {
+    "objectID": "get_involved/community_roles.html#developer-forum",
+    "href": "get_involved/community_roles.html#developer-forum",
+    "title": "Getting involved in the community",
+    "section": "Developer forum",
+    "text": "Developer forum\nThe Bioconductor Developer Forum is a regular platform for users and developers to present existing infrastructure, discuss future developments, and consider changes that may affect the project. Meetings encourage informal, technical presentations and discussion, and help share institutional knowledge, package work, sustainable development practices, and upstream changes.\nAttendance is open to all Bioconductor users and developers, regardless of background or experience. The forum usually meets on the last Thursday of each month at 4pm UTC for about an hour; check the Developer Forum page for the current schedule and announcements. Past meetings are available through the Bioconductor YouTube channel and the course materials page.\n\n\n\n\n\n\nTipContact\n\n\n\nTo propose a presentation, contact the organizer listed on the Developer Forum page.",
     "crumbs": [
       "Getting involved",
       "Getting involved in the community"
